@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Dulce tormento de amor
+
+This log tracks the cryptographic history and versioning for the song **Dulce tormento de amor** (dulce-tormento-de-amor).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-22T06:57:32.612436 | `v1` | `b8a9531b1fb7e3a8fd0da2edcc2c2f52652770e05a5909ccf05b51e7165fd764` | `fbc4c7f1b014b8bc38bbdf1346d5a9c3be2c90af5a3153e9a5b348c657e90840` | `2026-06-22_dulce-tormento-de-amor-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

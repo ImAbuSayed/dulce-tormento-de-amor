@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/dulce-tormento-de-amor/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Dulce tormento de amor](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dulce-tormento-de-amor/) |
+| **Get License** | [Get a Licensing Quote for Dulce tormento de amor](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dulce-tormento-de-amor/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `b8a9531b1fb7e3a8fd0da2edcc2c2f52652770e05a5909ccf05b51e7165fd764` |
 | **Timestamp** | June 22, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
