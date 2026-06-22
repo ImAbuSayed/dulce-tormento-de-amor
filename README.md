@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/dulce-tormento-de-amor/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Dulce tormento de amor](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dulce-tormento-de-amor/) |
+| **Get License** | [License this song: Dulce tormento de amor](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/dulce-tormento-de-amor/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tus ojos brillan en la oscuridad, my baby
+> Un juego de fuego que me vuelve crazy
+> Me llamas de noche, subiendo la tensión
+> El dulce tormento de mi corazón
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
